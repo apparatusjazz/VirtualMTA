@@ -11,8 +11,8 @@
 
 !/Assests/
 /Assets/*
-!/Assets/"C# Scripts/
-!/Assets/Scenes/
+!/Assets/"C# Scripts"
+!/Assets/Scenes
 
 
 

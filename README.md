@@ -5,3 +5,11 @@ The VirtualMTA is a virtual reality project akin to a video game that seeks to s
 The project was passed along from previous capstone students. The work they did includes a few functional subway stations, a ride-able train, train arrival time tracker, implementation of a heart beat monitor bar, control compatibility with the Oculus Rift, and some static train passengers. The proposed work to be done below is below in the proposed work plan.
 
 Unity is the main software being used to build the VirtualMTA project. It is used along with visual studio to build C# scripts, the programming language which Unity uses.
+
+
+Work Logged:
+
+1. Improved Virtual Reality controls
+2. Put is a difficulty system that controls the amount of passesngers in the subway and the amount of random events such as delays
+3. Worked with a partner to implement a real time heart rate monitor with the fitbit (writes to csv file)
+4. Record player's position and rotation, records to an XML file
